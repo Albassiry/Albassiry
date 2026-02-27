@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Walied
 
-<img width="626" height="626" alt="image" src="https://github.com/user-attachments/assets/9c1a20cd-ae55-452b-9028-c3e069c6a7db" />
+<img width="526" height="526" alt="image" src="https://github.com/user-attachments/assets/9c1a20cd-ae55-452b-9028-c3e069c6a7db" />
 
 
 
