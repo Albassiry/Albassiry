@@ -33,4 +33,4 @@ My name is Walied
 -----
 ## 🌐 Connect With Me: 
 - 💼 [LinkedIn](https://linkedin.com/in/walied-mohamed-a1a73054)  
-- 📧 Email: walied.mohamed263@triosstudent.com
+- 📧 walied.mohamed263@triosstudent.com
