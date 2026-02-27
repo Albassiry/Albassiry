@@ -27,8 +27,8 @@ My name is Walied
 
 -----
 ## 📈 GitHub Stats"
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albassiry&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Albassiry)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albassiry&show_icons=true&theme=radical) 
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Albassiry)
 
 -----
 ## 🌐 Connect With Me: 
