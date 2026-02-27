@@ -19,18 +19,18 @@ My name is Walied
 ⚡ Fun fact: My brain has too many 'Not Responding' moments before 10:00 AM.
 
 -----
-## 🛠️ Tech Stack 
+## 🛠️ Tech Stack: 
 | Category    | Tools |
 |-------------|-------| 
 | Languages   |Git, VS, JavaScript|
 | Security, Ms| Linux, Windows Server|
 
 -----
-## 📈 GitHub Stats 
+## 📈 GitHub Stats"
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albassiry&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Albassiry
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Albassiry)
 
 -----
-## 🌐 Connect With Me 
+## 🌐 Connect With Me: 
 - 💼 [LinkedIn](https://linkedin.com/in/walied-mohamed-a1a73054)  
 - 📧 Email: walied.mohamed263@triosstudent.com
